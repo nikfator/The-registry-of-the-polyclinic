@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "hMfcMOY8S7c=",
+  "success": true,
+  "projectFilePath": "E:\\Универ\\Программы\\PPTX1\\PPTX1\\PPTX1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\belug\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.20\\microsoft.windowsdesktop.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\belug\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.20\\microsoft.netcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\belug\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.20\\microsoft.aspnetcore.app.ref.7.0.20.nupkg.sha512",
+    "C:\\Users\\belug\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.20\\microsoft.netcore.app.host.win-x64.7.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}
